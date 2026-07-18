@@ -8,6 +8,13 @@ https://mazua1009-cyber.github.io/editable-five-elements-slide/
 
 特定ページを共有するときは、URL末尾に `#slide=17` のようにページ番号を付けます。
 
+## コード一式を共有
+
+- GitHub：https://github.com/mazua1009-cyber/editable-five-elements-slide
+- ZIPダウンロード：https://github.com/mazua1009-cyber/editable-five-elements-slide/archive/refs/heads/main.zip
+
+受け取った人は、ZIPを展開して `index.html` を開けば、スライドとトークスクリプトをブラウザで確認できます。
+
 ## 画面上でできること
 
 - 前後ボタン、矢印キー、スペースキーでページ送り
